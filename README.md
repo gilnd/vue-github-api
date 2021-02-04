@@ -2,20 +2,20 @@
 
 Simple Vuejs + Github API showcase! :) 
 
-This project is a test performed which was asked me to do in one week by across!
-
-
 ### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run Project
 ```
 npm run serve
 ```
 
-
+### Run Tests
+```
+npm run test
+```
 
 ### Learn VueJS
 Read the [Documentation](https://v3.vuejs.org/guide/introduction.html).
