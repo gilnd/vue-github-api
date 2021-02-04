@@ -2,6 +2,8 @@
 
 Simple Vuejs + Github API showcase! :) 
 
+For more detail read the [Documentation](https://github.com/gilnd/vue-github-api/blob/main/docs/doc.md).
+
 ### Project setup
 ```
 npm install
