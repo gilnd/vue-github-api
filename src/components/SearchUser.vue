@@ -43,7 +43,7 @@
 <script>
 export default {
     props:{ loading: Boolean },
-    data() { return { query: null } },
+    data() { return { query: "" } },
     methods: {
         searchUser: function(){this.$emit('searchUser', this.query);}
     }

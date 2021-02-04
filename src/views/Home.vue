@@ -27,8 +27,8 @@
     </div>
 </template>
 <script>
-import SearchUser from '@/components/SearchUser.vue'
-import UserCard from '@/components/UserCard.vue'
+import SearchUser from '../components/SearchUser.vue'
+import UserCard from '../components/UserCard.vue'
 
 import {mapState} from 'vuex'
 export default {
