@@ -4,16 +4,16 @@ Hello! :)
 
 
 This project is a simple showcase test of vuejs + tailwind + github API.
-The main goal is to search github users with github api and show theme on a list, you can then click on the usernames to open their profile page on github. 
+The main goal is to search github users with github api and show them on a list, you can then click on the usernames to open their profile page on github. 
 
-### Requirments
+### Requirements
 ```
 Node.js & npm Installed  
 ```
 
 ### Project setup
 
-After you have cloned the repository in your local workspace, execute this command under the root folder.
+After you have cloned the repository in your local workspace, execute this command under the root folder of the project.
 ```
 npm install
 ```
