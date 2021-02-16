@@ -4,6 +4,8 @@ Simple Vuejs + Github API showcase! :)
 
 For more detail read the [Documentation](https://github.com/gilnd/vue-github-api/blob/main/docs/doc.md).
 
+Check live version [here](https://vue-github-search.netlify.app/). :)
+
 ### Project setup
 ```
 npm install
